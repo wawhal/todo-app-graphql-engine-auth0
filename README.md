@@ -1,3 +1,9 @@
+# Important: This repo has been moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/examples/todo-auth0)
+
+The contents of this repo have been moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/examples/todo-auth0). Please create all issues and pull requests there.
+
+--
+
 # Todo app using Hasura GraphQL Engine, Heroku Postgres and Auth0
 
 * STEP 1: Set auth0 domain
